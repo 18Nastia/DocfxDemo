@@ -1,0 +1,32 @@
+{
+  "api/DocfxDemo.Calculator.html": {
+    "href": "api/DocfxDemo.Calculator.html",
+    "title": "Class Calculator | Calculator API",
+    "summary": "Class Calculator Namespace DocfxDemo Assembly DocfxDemo.dll Класс калькулятора. public class Calculator Inheritance object Calculator Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Add(int, int) Сложение двух чисел. public int Add(int a, int b) Parameters a int b int Returns int Subtract(int, int) Вычитание двух чисел. public int Subtract(int a, int b) Parameters a int b int Returns int"
+  },
+  "api/DocfxDemo.Operation.html": {
+    "href": "api/DocfxDemo.Operation.html",
+    "title": "Enum Operation | Calculator API",
+    "summary": "Enum Operation Namespace DocfxDemo Assembly DocfxDemo.dll Возможные действия калькулятора. public enum Operation Fields Add = 0 Divide = 3 Multiply = 2 Subtract = 1"
+  },
+  "api/DocfxDemo.html": {
+    "href": "api/DocfxDemo.html",
+    "title": "Namespace DocfxDemo | Calculator API",
+    "summary": "Namespace DocfxDemo Classes Calculator Класс калькулятора. Enums Operation Возможные действия калькулятора."
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | Calculator API",
+    "summary": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | Calculator API",
+    "summary": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Calculator API | Calculator API",
+    "summary": "Calculator API Это документация для проекта Calculator на C#. Используйте вкладку API вверху, чтобы просмотреть все классы и методы."
+  }
+}

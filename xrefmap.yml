@@ -1,0 +1,77 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: DocfxDemo
+  name: DocfxDemo
+  href: api/DocfxDemo.html
+  commentId: N:DocfxDemo
+  fullName: DocfxDemo
+  nameWithType: DocfxDemo
+- uid: DocfxDemo.Calculator
+  name: Calculator
+  href: api/DocfxDemo.Calculator.html
+  commentId: T:DocfxDemo.Calculator
+  fullName: DocfxDemo.Calculator
+  nameWithType: Calculator
+- uid: DocfxDemo.Calculator.Add(System.Int32,System.Int32)
+  name: Add(int, int)
+  href: api/DocfxDemo.Calculator.html#DocfxDemo_Calculator_Add_System_Int32_System_Int32_
+  commentId: M:DocfxDemo.Calculator.Add(System.Int32,System.Int32)
+  name.vb: Add(Integer, Integer)
+  fullName: DocfxDemo.Calculator.Add(int, int)
+  fullName.vb: DocfxDemo.Calculator.Add(Integer, Integer)
+  nameWithType: Calculator.Add(int, int)
+  nameWithType.vb: Calculator.Add(Integer, Integer)
+- uid: DocfxDemo.Calculator.Add*
+  name: Add
+  href: api/DocfxDemo.Calculator.html#DocfxDemo_Calculator_Add_
+  commentId: Overload:DocfxDemo.Calculator.Add
+  isSpec: "True"
+  fullName: DocfxDemo.Calculator.Add
+  nameWithType: Calculator.Add
+- uid: DocfxDemo.Calculator.Subtract(System.Int32,System.Int32)
+  name: Subtract(int, int)
+  href: api/DocfxDemo.Calculator.html#DocfxDemo_Calculator_Subtract_System_Int32_System_Int32_
+  commentId: M:DocfxDemo.Calculator.Subtract(System.Int32,System.Int32)
+  name.vb: Subtract(Integer, Integer)
+  fullName: DocfxDemo.Calculator.Subtract(int, int)
+  fullName.vb: DocfxDemo.Calculator.Subtract(Integer, Integer)
+  nameWithType: Calculator.Subtract(int, int)
+  nameWithType.vb: Calculator.Subtract(Integer, Integer)
+- uid: DocfxDemo.Calculator.Subtract*
+  name: Subtract
+  href: api/DocfxDemo.Calculator.html#DocfxDemo_Calculator_Subtract_
+  commentId: Overload:DocfxDemo.Calculator.Subtract
+  isSpec: "True"
+  fullName: DocfxDemo.Calculator.Subtract
+  nameWithType: Calculator.Subtract
+- uid: DocfxDemo.Operation
+  name: Operation
+  href: api/DocfxDemo.Operation.html
+  commentId: T:DocfxDemo.Operation
+  fullName: DocfxDemo.Operation
+  nameWithType: Operation
+- uid: DocfxDemo.Operation.Add
+  name: Add
+  href: api/DocfxDemo.Operation.html#DocfxDemo_Operation_Add
+  commentId: F:DocfxDemo.Operation.Add
+  fullName: DocfxDemo.Operation.Add
+  nameWithType: Operation.Add
+- uid: DocfxDemo.Operation.Divide
+  name: Divide
+  href: api/DocfxDemo.Operation.html#DocfxDemo_Operation_Divide
+  commentId: F:DocfxDemo.Operation.Divide
+  fullName: DocfxDemo.Operation.Divide
+  nameWithType: Operation.Divide
+- uid: DocfxDemo.Operation.Multiply
+  name: Multiply
+  href: api/DocfxDemo.Operation.html#DocfxDemo_Operation_Multiply
+  commentId: F:DocfxDemo.Operation.Multiply
+  fullName: DocfxDemo.Operation.Multiply
+  nameWithType: Operation.Multiply
+- uid: DocfxDemo.Operation.Subtract
+  name: Subtract
+  href: api/DocfxDemo.Operation.html#DocfxDemo_Operation_Subtract
+  commentId: F:DocfxDemo.Operation.Subtract
+  fullName: DocfxDemo.Operation.Subtract
+  nameWithType: Operation.Subtract
